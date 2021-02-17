@@ -22,7 +22,7 @@ export default function PostPage({ post }: Props) {
       title={`${post.title} - Coral Party`}
       publishedAt={post.date}
       author={post.author}
-      pagePath={post.slug}
+      pagePath={`/posts/${post.slug}/`}
     >
       <header className="mb-10 space-y-4">
         {post.title && <h1 className="text-4xl">{post.title}</h1>}
