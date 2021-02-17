@@ -49,7 +49,7 @@ export default function PostPage({ post }: Props) {
         className="prose space-y-4"
         dangerouslySetInnerHTML={{ __html: post.content }}
       />
-      <CoralComments storyMode={post.mode} rootURL="localhost:8080" />
+      <CoralComments storyMode={post.mode} />
     </Layout>
   );
 }
