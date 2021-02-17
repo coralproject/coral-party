@@ -20,11 +20,7 @@ const Layout: FunctionComponent<Props> = ({
 }) => {
   const canonical = useMemo(() => {
     const { href } = new URL(pagePath, BASE_URL);
-    if (/\/$/.test(href)) {
-      return href;
-    }
-
-    return `${href}/`;
+    return href;
   }, [pagePath]);
 
   return (
