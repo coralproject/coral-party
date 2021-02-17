@@ -4,6 +4,7 @@ import { useMemo, useState } from "react";
 import Layout from "../components/Layout";
 import { getAllPosts, Post } from "../lib/posts";
 import uniq from "lodash/uniq";
+import FilterButton from "../components/FilterButton";
 
 interface Props {
   posts: Post[];
@@ -29,21 +30,23 @@ export default function IndexPage({ posts }: Props) {
   return (
     <Layout title="Coral Party" pagePath="/">
       <div className="bg-gradient-to-r from-blue-600 to-purple-600 p-4 flex justify-between space-x-4 text-white rounded">
-        <div className="space-x-4">
-          <span>Filter</span>
-          <select
-            className="inline-block bg-transparent focus:outline-none"
-            onChange={(e) => {
-              setFilter(e.target.value);
-            }}
-          >
-            <option value="">All Posts</option>
+        <div className="">
+          <h2 className="mb-2">Filter</h2>
+          <div className="flex space-x-2">
+            <FilterButton value="" onClick={setFilter} selected={filter === ""}>
+              All
+            </FilterButton>
             {modes.map((mode) => (
-              <option key={mode} value={mode}>
+              <FilterButton
+                key={mode}
+                value={mode}
+                onClick={setFilter}
+                selected={filter === mode}
+              >
                 {mode}
-              </option>
+              </FilterButton>
             ))}
-          </select>
+          </div>
         </div>
         <span>
           {filtered.length} of {posts.length} posts
