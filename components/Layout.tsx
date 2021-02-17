@@ -5,6 +5,7 @@ import Head from "next/head";
 interface Props {
   title: string;
   pagePath: string;
+  editURL?: string;
   author?: string;
   publishedAt?: string;
 }
@@ -16,6 +17,7 @@ const Layout: FunctionComponent<Props> = ({
   author,
   publishedAt,
   pagePath,
+  editURL,
   children,
 }) => {
   const canonical = useMemo(() => {
@@ -32,11 +34,23 @@ const Layout: FunctionComponent<Props> = ({
         {publishedAt && <meta name="datepublished" content={publishedAt} />}
       </Head>
       <div className="max-w-3xl mx-auto my-20 space-y-4">
-        <Link href="/" passHref>
-          <a className="text-2xl font-bold text-blue-600 hover:underline">
-            Coral Party
-          </a>
-        </Link>
+        <div className="font-bold flex justify-between items-end">
+          <Link href="/" passHref>
+            <a className="text-2xl text-blue-600 hover:underline">
+              Coral Party
+            </a>
+          </Link>
+          {editURL && (
+            <a
+              className="inline-block hover:underline"
+              target="_blank"
+              rel="noopener noreferrer"
+              href={editURL}
+            >
+              Edit
+            </a>
+          )}
+        </div>
         <div className="space-y-4">{children}</div>
       </div>
     </>

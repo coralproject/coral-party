@@ -23,6 +23,7 @@ export default function PostPage({ post }: Props) {
       publishedAt={post.date}
       author={post.author}
       pagePath={`/posts/${post.slug}/`}
+      editURL={`https://github.com/coralproject/coral-party/edit/main/content/${post.slug}.md`}
     >
       <header className="mb-10 space-y-4">
         {post.title && <h1 className="text-4xl">{post.title}</h1>}
