@@ -1,23 +1,37 @@
-import { FunctionComponent } from "react";
+import { FunctionComponent, useMemo } from "react";
 import Link from "next/link";
 import Head from "next/head";
 
 interface Props {
   title: string;
+  pagePath: string;
   author?: string;
   publishedAt?: string;
 }
+
+const BASE_URL = process.env.NEXT_PUBLIC_BASE_URL || "http://localhost:4000/";
 
 const Layout: FunctionComponent<Props> = ({
   title,
   author,
   publishedAt,
+  pagePath,
   children,
 }) => {
+  const canonical = useMemo(() => {
+    const { href } = new URL(pagePath, BASE_URL);
+    if (/\/$/.test(href)) {
+      return href;
+    }
+
+    return `${href}/`;
+  }, [pagePath]);
+
   return (
     <>
       <Head>
         <title>{title}</title>
+        <link rel="canonical" href={canonical} />
         {author && <meta name="author" content={author} />}
         {publishedAt && <meta name="datepublished" content={publishedAt} />}
       </Head>

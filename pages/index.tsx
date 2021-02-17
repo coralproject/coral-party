@@ -27,7 +27,7 @@ export default function IndexPage({ posts }: Props) {
   }, [posts, filter]);
 
   return (
-    <Layout title="Coral Party">
+    <Layout title="Coral Party" pagePath="/">
       <div className="bg-gradient-to-r from-blue-600 to-purple-600 p-4 flex justify-between space-x-4 text-white rounded">
         <div className="space-x-4">
           <span>Filter</span>
