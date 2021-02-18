@@ -1,20 +1,22 @@
 import { GetStaticProps } from "next";
 import Link from "next/link";
-import Layout from "../components/Layout";
+
+import Layout from "../../components/Layout";
 import {
   getAllPartyModes,
   getAllPartyVersions,
   getPartySlug,
-} from "../lib/parties";
+} from "../../lib/parties";
 
 interface Props {
   versions: string[];
   modes: string[];
 }
 
-export default function IndexPage({ versions, modes }: Props) {
+export default function PartiesPage({ versions, modes }: Props) {
   return (
     <Layout title={`- Coral Party`} pagePath={`/parties/`}>
+      <h1 className="text-4xl">Parties</h1>
       {versions.map((version) => (
         <div
           key={version}

@@ -1,4 +1,6 @@
-module.exports = {
+const withYaml = require("next-plugin-yaml");
+
+module.exports = withYaml({
   trailingSlash: true,
   webpack: (config, { dev, isServer }) => {
     if (!dev && !isServer) {
@@ -11,4 +13,4 @@ module.exports = {
 
     return config;
   },
-};
+});
