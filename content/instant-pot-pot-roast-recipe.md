@@ -1,7 +1,7 @@
 ---
 title: "Instant Pot Pot Roast Recipe"
 date: "2020-11-24T16:44:30-07:00"
-mode: "RATINGS_AND_REVIEWS"
+mode: "QA"
 author: Wyatt
 ---
 
