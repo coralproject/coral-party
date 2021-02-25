@@ -1,7 +1,7 @@
 import { GetStaticPaths, GetStaticProps } from "next";
 import { ParsedUrlQuery } from "querystring";
 import CoralComments from "../../components/CoralComments";
-
+import Footer from "../../components/Footer";
 import Layout from "../../components/Layout";
 import markdownToHtml from "../../lib/markdown";
 import { getAllPosts, getPostBySlug, Post } from "../../lib/posts";
@@ -52,6 +52,7 @@ export default function PostPage({ post }: Props) {
         dangerouslySetInnerHTML={{ __html: post.content }}
       />
       <CoralComments storyMode={post.mode} />
+      <Footer />
     </Layout>
   );
 }
