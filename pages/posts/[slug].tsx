@@ -51,7 +51,7 @@ export default function PostPage({ post }: Props) {
         className="prose space-y-4"
         dangerouslySetInnerHTML={{ __html: post.content }}
       />
-      <CoralComments storyMode={post.mode} />
+      <CoralComments storyMode={post.mode} storyID={post.storyID} />
       <Footer />
     </Layout>
   );

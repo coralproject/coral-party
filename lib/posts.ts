@@ -15,6 +15,7 @@ export interface Post {
   title: string;
   author: string;
   mode?: string;
+  storyID?: string;
 }
 
 export function getPostBySlug(slug: string): Post {
@@ -30,6 +31,7 @@ export function getPostBySlug(slug: string): Post {
     date: data.date,
     author: data.author,
     mode: data.mode,
+    storyID: data.storyID,
   };
 
   return post;
