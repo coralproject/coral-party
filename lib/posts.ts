@@ -31,7 +31,7 @@ export function getPostBySlug(slug: string): Post {
     date: data.date,
     author: data.author,
     mode: data.mode,
-    storyID: data.storyID,
+    storyID: data.storyID ?? null,
   };
 
   return post;
