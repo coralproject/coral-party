@@ -3,7 +3,7 @@ title: "Report: Josh Gordon plans to sign with Chiefs"
 date: "2021-09-27T11:03:36.486Z"
 mode: "COMMENTS"
 author: Pete Sweeney
-storyID: 22461142
+storyID: 92891122
 ---
 
 Gordon, 30, first entered the league as a second-round pick made by the Cleveland Browns in the 2012 Supplemental Draft. The 6-foot-3, 225-pound receiver’s first NFL suspension for a violation of the NFL’s substance-abuse policy came in 2013 — when he was out two games but still went on to the best year of his career: 87 catches for 1,646 yards and nine touchdowns.
