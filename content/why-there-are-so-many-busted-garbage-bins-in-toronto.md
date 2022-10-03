@@ -1,4 +1,3 @@
-
 ---
 title: "Why do so many Toronto litter bins look like garbage?"
 date: "2022-10-13T08:58:37-07:00"
