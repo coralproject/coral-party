@@ -1,6 +1,6 @@
 ---
 title: "CPCC: A Redis Commenting Palooza"
-date: "2023-02-123T09:49:00-07:00"
+date: "2023-02-23T09:49:00-07:00"
 mode: "COMMENTS"
 author: Nick Funk
 ---
