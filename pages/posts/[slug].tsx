@@ -1,6 +1,6 @@
 import { GetStaticPaths, GetStaticProps } from "next";
 import { useRouter } from "next/dist/client/router";
-import { encode, ParsedUrlQuery } from "querystring";
+import { ParsedUrlQuery } from "querystring";
 import { v4 as uuid } from "uuid";
 
 import CoralComments from "../../components/CoralComments";
@@ -8,7 +8,7 @@ import Footer from "../../components/Footer";
 import Layout from "../../components/Layout";
 import markdownToHtml from "../../lib/markdown";
 import { getAllPosts, getPostBySlug, Post } from "../../lib/posts";
-import { createSSOToken, getSSOConfig, SSOUser } from "../sso";
+import { createSSOToken, getSSOConfig, SSOUser } from "../../lib/sso";
 
 interface User {
   id: string;
