@@ -4,11 +4,12 @@ import { useIsomorphicLayoutEffect } from "react-use";
 
 interface Props {
   storyMode?: string;
+  token?: string;
 }
 
 const CORAL_DOMAIN = process.env.NEXT_PUBLIC_CORAL_DOMAIN || "localhost:8080";
 
-const CoralComments: FunctionComponent<Props> = ({ storyMode }) => {
+const CoralComments: FunctionComponent<Props> = ({ storyMode, token }) => {
   const ref = useRef<HTMLDivElement>(null);
   const [loaded, setLoaded] = useState(false);
   const [error, setError] = useState(false);
@@ -21,12 +22,15 @@ const CoralComments: FunctionComponent<Props> = ({ storyMode }) => {
     script.async = true;
     script.src = `//${CORAL_DOMAIN}/assets/js/embed.js`;
     script.onload = () => {
-      stream = (window as any).Coral.createStreamEmbed({
+      const params: any = {
         id: "coral",
         autoRender: true,
         rootURL: `//${CORAL_DOMAIN}`,
         storyMode,
-      });
+        accessToken: token
+      };
+
+      stream = (window as any).Coral.createStreamEmbed(params);
 
       (window as any).Coral.stream = stream;
 

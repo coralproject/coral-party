@@ -1,10 +1,11 @@
-import { GetStaticProps } from "next";
-import Link from "next/link";
-import { useMemo, useState } from "react";
-import Layout from "../components/Layout";
-import { getAllPosts, Post } from "../lib/posts";
-import uniq from "lodash/uniq";
-import FilterButton from "../components/FilterButton";
+import uniq from 'lodash/uniq';
+import { GetStaticProps } from 'next';
+import Link from 'next/link';
+import { useMemo, useState } from 'react';
+
+import FilterButton from '../components/FilterButton';
+import Layout from '../components/Layout';
+import { getAllPosts, Post } from '../lib/posts';
 
 const CORAL_DOMAIN = process.env.NEXT_PUBLIC_CORAL_DOMAIN || "localhost:8080";
 const BASE_URL = process.env.NEXT_PUBLIC_BASE_URL || "http://localhost:4000/";
