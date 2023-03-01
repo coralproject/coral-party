@@ -14,6 +14,14 @@ export interface SSOConfig {
 
 export const getSSOConfig = (): SSOConfig => {
   const rawConfig = process.env.SSO_CONFIG || "";
+  const enabled = process.env.SSO_ENABLED === "true" ?? false;
+
+  if (!enabled) {
+    return {
+      secret: "",
+      users: [],
+    };
+  }
 
   if (!rawConfig || rawConfig.trim() === "") {
     return {
