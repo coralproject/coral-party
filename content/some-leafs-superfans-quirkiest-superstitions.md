@@ -9,6 +9,8 @@ When Ken Judge watches the Maple Leafs from home, he sits in front of his televi
 
 “My whole neighbourhood can hear it,” he told the Star on Wednesday.
 
+<div class="coral-comment-embed" style="background-color: #f4f7f7; padding: 8px;" data-commentID=c80d3cc1-1a2a-4bb7-b8af-615470bae957 data-allowReplies="true" data-reactionLabel="Respect"><div style="margin-bottom: 8px;">kathryntest</div><div><div>new comment</div></div></div>
+
 For Leafs superfans like Judge, superstitions are part of the fun. In a sport where the outcome is often unpredictable (look no further than the Leafs’ come-from-behind win against the Tampa Bay Lightning in Game 4), these rituals offer fans a sense of control.
 
 Some last the duration of a playoff series, before fans ditch them for another ritual that they hope will be successful, while others stretch on for years.
