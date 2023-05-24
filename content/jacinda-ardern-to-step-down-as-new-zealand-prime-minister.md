@@ -16,6 +16,8 @@ She also announced that New Zealand’s 2023 general elections would be held on 
 
 Her announcement came as a shock to people throughout the nation of 5 million people. Although there had been some chatter in political circles that Ardern might resign before the next election, she’d always maintained she planned to run again.
 
+<div class="coral-comment-embed" style="background-color: #f4f7f7; padding: 8px;" data-commentID=327cc558-f419-4827-90fc-1c468677f698 data-allowReplies="true" data-reactionLabel="Respect"><div style="margin-bottom: 8px;">tessa2</div><div><div>I think this is really interesting stuff and i have a lot of insightful commentary to contribute! Did you see this video? <a href="https://youtu.be/8zIf0XvoL9Y" target="_blank" rel="noopener noreferrer ugc">https://youtu.be/8zIf0XvoL9Y</a><br></div><div><br><a href="https://youtu.be/8zIf0XvoL9Y" target="_blank" rel="noopener noreferrer ugc">https://youtu.be/8zIf0XvoL9Y</a></div></div></div>
+
 It’s unclear who will take over as prime minister until the election. Deputy Prime Minister Grant Robertson announced that he won’t contest the leadership of the Labour Party, throwing the competition open.
 
 Ardern became an inspiration to women around the world after winning the top job in 2017 at the relatively young age of 37. The following year, she became just the second world leader to give birth while holding office. When she brought her infant daughter to the floor of the U.N. General Assembly in New York in 2018, it brought smiles to people everywhere.
