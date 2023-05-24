@@ -52,6 +52,7 @@ Australian Prime Minister Anthony Albanese, whose Labor Party is aligned with Ne
 
 With China becoming more assertive in the Pacific, Ardern had tried to take a more diplomatic approach than neighboring Australia, which had ended up feuding with China. In an interview with The Associated Press last month, she’d said that building relationships with small Pacific nations shouldn’t become a game of one-upmanship with China.
 
+<div class="coral-comment-embed" style="background-color: #f4f7f7; padding: 8px;" data-commentID=65bbca7b-9a5c-48c5-bdb1-1c419cdd1e43 data-allowReplies="true" data-reactionLabel="Respect"><div style="margin-bottom: 8px;">kathryntest</div><div><div>a comment with <b>bold</b> and <i>italic</i> and <br></div><blockquote style="background-color: #EAEFF0; border-radius: 3px; margin: 0.5rem 0 0.5rem 0.2rem; padding: 0.2rem;"><div>a quote<br></div></blockquote><ul><li>one<br></li><li>two<br></li><li>three<br></li></ul><div>and a cat</div><div><br><a href="https://i.natgeofe.com/n/548467d8-c5f1-4551-9f58-6817a8d2c45e/NationalGeographic_2572187_square.jpg" target="_blank" rel="noopener noreferrer ugc">https://i.natgeofe.com/n/548467d8-c5f1-4551-9f58-6817a8d2c45e/NationalGeographic_2572187_square.jpg</a></div></div></div>
 
 Ardern last month announced a wide-ranging Royal Commission of Inquiry would look into whether the government made the right decisions in battling COVID-19 and how it could better prepare for future pandemics. Its report is due next year.
 
