@@ -24,6 +24,8 @@ Ardern became an inspiration to women around the world after winning the top job
 
 In March 2019, Ardern faced one of the darkest days in New Zealand’s history when a white supremacist gunman stormed two mosques in Christchurch and slaughtered 51 people. She was widely praised for the way she embraced the survivors and New Zealand’s Muslim community in the aftermath.
 
+<div class="coral-comment-embed" style="background-color: #f4f7f7; padding: 8px;" data-commentID=f6562714-25f4-41bf-b1c1-fec0753e3b35 data-allowReplies="true" data-reactionLabel="Respect"><div style="margin-bottom: 8px;">coraladmin</div><div><div>niiice</div><div><br><a href="https://media3.giphy.com/media/4QFAH0qZ0LQnIwVYKT/giphy.gif?cid=35bbe00c0crt9hnvft4c12bn46f9mnkehh2twoxs8y3jij61&ep=v1_gifs_search&rid=giphy.gif&ct=g" target="_blank" rel="noopener noreferrer ugc">https://media3.giphy.com/media/4QFAH0qZ0LQnIwVYKT/giphy.gif?cid=35bbe00c0crt9hnvft4c12bn46f9mnkehh2twoxs8y3jij61&ep=v1_gifs_search&rid=giphy.gif&ct=g</a></div></div></div>
+
 She was lauded globally for her country’s initial handling of the coronavirus pandemic after New Zealand managed for months to stop the virus at its borders. But she was forced to abandon that zero-tolerance strategy as more contagious variants spread and vaccines became widely available.
 
 Ardern faced growing anger at home from those who opposed coronavirus mandates and rules. A protest last year that began on Parliament’s grounds lasted for more than three weeks and ended with protesters hurling rocks at police and setting fires to tents and mattresses as they were forced to leave.
