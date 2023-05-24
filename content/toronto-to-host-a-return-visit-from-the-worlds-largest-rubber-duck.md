@@ -11,6 +11,8 @@ Mama Duck, the world’s largest rubber duck that swims in at six storeys and we
 
 It’s the first paddle-back to Toronto in six years for the popular icon scheduled for Sept. 16 and 17 appearances at Queens Quay East to celebrate the Toronto Waterfront Festival (formerly Redpath Waterfront Festival).
 
+<div class="coral-comment-embed" style="background-color: #f4f7f7; padding: 8px;" data-commentID=c80d3cc1-1a2a-4bb7-b8af-615470bae957 data-allowReplies="true" data-reactionLabel="Respect"><div style="margin-bottom: 8px;">kathryntest</div><div><div>new comment</div></div></div>
+
 “The number one program we continually get asked to bring back is by far the World’s Largest Rubber Duck,” said Nancy Gavin, chair of the Toronto Waterfront Festival, in a news release.
 
 The Toronto Waterfront Festival is an annual summer event with music, food, nautical programs and entertainment organized in partnership with the Waterfront BIA. The 2023 festival partners will include Redpath Sugar, The Waterfront BIA, Billy Bishop Toronto City Airport, Waterfront Toronto and Queen’s Quay Terminal.
