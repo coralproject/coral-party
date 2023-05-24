@@ -34,6 +34,8 @@ The heated emotions around the coronavirus debate led to a level of vitriol dire
 
 Ardern had been facing tough reelection prospects. Her liberal Labour Party won reelection two years ago in a landslide of historic proportions, but recent polls have put her party behind its conservative rivals.
 
+<div class="coral-comment-embed" style="background-color: #f4f7f7; padding: 8px;" data-commentID=d43da362-c2d2-4db6-a890-dbca8aa4f1b6 data-allowReplies="true" data-reactionLabel="Respect"><div style="margin-bottom: 8px;">kathryntest</div><div><div>a comment with a tweet<br></div><div><br></div><div><a href="https://twitter.com/JaneOst_/status/1643265647575547905" target="_blank" rel="noopener noreferrer ugc">https://twitter.com/JaneOst_/status/1643265647575547905</a><br></div><div><br><a href="https://twitter.com/JaneOst_/status/1643265647575547905" target="_blank" rel="noopener noreferrer ugc">https://twitter.com/JaneOst_/status/1643265647575547905</a></div></div></div>
+
 Ardern said the role required having a reserve to face the unexpected.
 
 “But I am not leaving because it was hard. Had that been the case I probably would have departed two months into the job,“ she said. “I am leaving because with such a privileged role comes responsibility. The responsibility to know when you are the right person to lead, and also, when you are not.”
