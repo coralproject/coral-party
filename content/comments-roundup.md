@@ -39,3 +39,32 @@ TomRem made their return after being away from the site and provided this hopefu
 
 If you want to be part of our conversation where we highlight some of our favorite comments, be sure to sign up for a Pride of Detroit account, and look out for our daily Questions of the Day—typically posted around 6 a.m. ET.
 
+<div id="coral-comment-embed-shadowRoot-d9ad51bf-68a2-45b4-8826-ba3a38b2fd7b"></div>
+      <script type="module">
+        const response = await fetch("/api/services/oembed?url=https://coral-party-dev2.netlify.app/posts/comments-roundup/?commentID=d9ad51bf-68a2-45b4-8826-ba3a38b2fd7b&format=xml);
+        const { html, embeddedMediaIframeScript } = await response.json();
+        const embed = window.document.querySelector("#coral-comment-embed-shadowRoot-d9ad51bf-68a2-45b4-8826-ba3a38b2fd7b");
+        const shadowRoot = embed.attachShadow({ mode: "open" });
+        shadowRoot.innerHTML = html;
+        if (embeddedMediaIframeScript) {
+          const iframeHeightScript = window.document.createElement("script");
+          iframeHeightScript.innerHTML = embeddedMediaIframeScript;
+          shadowRoot.appendChild(iframeHeightScript);
+        };
+      </script>
+      
+Thank you for reading this story.
+
+<div id="coral-comment-embed-shadowRoot-a3422f73-5b2d-4302-a395-43d59bdf5475"></div>
+      <script type="module">
+        const response = await fetch("/api/services/oembed?url=https://coral-party-dev2.netlify.app/posts/comments-roundup/?commentID=a3422f73-5b2d-4302-a395-43d59bdf5475);
+        const { html, embeddedMediaIframeScript } = await response.json();
+        const embed = window.document.querySelector("#coral-comment-embed-shadowRoot-a3422f73-5b2d-4302-a395-43d59bdf5475");
+        const shadowRoot = embed.attachShadow({ mode: "open" });
+        shadowRoot.innerHTML = html;
+        if (embeddedMediaIframeScript) {
+          const iframeHeightScript = window.document.createElement("script");
+          iframeHeightScript.innerHTML = embeddedMediaIframeScript;
+          shadowRoot.appendChild(iframeHeightScript);
+        };
+      </script>
