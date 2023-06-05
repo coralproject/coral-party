@@ -9,6 +9,8 @@ On Tuesday, we asked Pride of Detroit readers a very simple question: Will the D
 
 Currently, the Lions are ninth in the NFC, but have an even record with the eighth team (Seattle Seahawk) and are just a half-game behind the seven-seeded Washington Commanders (-6). Considering the Lions have the second-easiest schedule remaining, and they’re a red-hot team that has won six of their last seven games, the probabilities seem high. Depending on your favorite probability model, the analytics community has Detroit’s shot at the postseason 42.6 percent or 40 percent or 36 percent.
 
+<div class="coral-comment-embed coral-comment-embed-simple" style="background-color: #f4f7f7; padding: 8px; position: relative;" data-commentID=f91d389d-cd1d-4e6d-9194-4a2af9df7f0f data-reactionLabel="Respect"><a target="_blank" style="position: absolute; z-index: 0; top: 0; bottom: 0; left: 0; right: 0;" href="https://coral-party-dev2.netlify.app/posts/comments-roundup/?commentID=f91d389d-cd1d-4e6d-9194-4a2af9df7f0f"></a><div style="margin-bottom: 8px;">kathryntest</div><div><div>comment with a link inside <a href="https://www.sbnation.com/" target="_blank" rel="noopener noreferrer ugc" class="coral-comment-content-link" style="position: relative; z-index: 1;">https://www.sbnation.com/</a><br></div></div></div>
+
 Unsurprisingly, confidence is much higher among the Lions faithful—much, much higher. In our poll, a whopping 82 percent of you—including myself—voted that you think the Detroit Lions will indeed make the playoffs.
 
 But let’s look beyond the numbers and check out some of our favorite arguments in the comment section:
