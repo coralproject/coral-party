@@ -21,6 +21,20 @@ According to the study, the number of drivers clocked speeding in 30, 40 and 50 
 
 “This represents an overall decrease of approximately seven kilometres per hour in vehicle operating speeds in areas with an ASE device,” the city said.
 
+<div id="coral-comment-embed-shadowRoot-3bb95434-e08d-4ec6-ad81-145ae5ff0b40"></div>
+      <script type="module">
+        const response = await fetch("http://localhost:8080/api/services/oembed?url=http://localhost:8080/?commentID=3bb95434-e08d-4ec6-ad81-145ae5ff0b40");
+        const { html, embeddedMediaIframeScript } = await response.json();
+        const embed = window.document.querySelector("#coral-comment-embed-shadowRoot-3bb95434-e08d-4ec6-ad81-145ae5ff0b40");
+        const shadowRoot = embed.attachShadow({ mode: "open" });
+        shadowRoot.innerHTML = html;
+        if (embeddedMediaIframeScript) {
+          const iframeHeightScript = window.document.createElement("script");
+          iframeHeightScript.innerHTML = embeddedMediaIframeScript;
+          shadowRoot.appendChild(iframeHeightScript);
+        };
+      </script>
+
 Dr. Andrew Howard, SickKids senior scientist at the Child Health Evaluative Sciences program, said ASE cameras have proven useful in “substantially” reducing motor vehicle speed in school zones, adding these devices can bring Toronto one step closer to realize its vision of zero deaths or severe injuries related to road traffic
 
 “News of severe and fatal child pedestrian injuries is all too common in Toronto. All childhood traffic injuries are preventable, and vehicle speed reduction is a cornerstone of prevention,” Howard said.
