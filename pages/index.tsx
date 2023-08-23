@@ -72,7 +72,7 @@ export default function IndexPage({ posts }: Props) {
             </h2>
             <span
               className="coral-count"
-              data-coral-url={`${BASE_URL}/posts/${post.slug}/`}
+              data-coral-url={`${BASE_URL}posts/${post.slug}/`}
             ></span>
             <div className="text-xs uppercase space-x-2 text-blue-500">
               <span className="">
