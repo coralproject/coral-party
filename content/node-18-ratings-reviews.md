@@ -1,0 +1,24 @@
+---
+title: "Node 18 (8.7.0) Ratings & Reviews"
+date: "2024-01-03T10:26:00-07:00"
+mode: "RATINGS_AND_REVIEWS"
+author: Nick Funk
+---
+
+Hey not too early I sleep in Sunday's, hey McFly, you're shoe's untied, don't be so gullible, McFly. No no no this sucker's electrical, but I need a nuclear reaction to generate the one point twenty-one gigawatts of electricity- What the hell is this? Alright, okay. Alright, there she is, George. Just go in there and invite her. How could I have been so careless. One point twenty-one gigawatts. Tom, how am I gonna generate that kind of power, it can't be done, it can't.
+
+Damn, where is that kid. Damn. Damn damn. You're late, do you have no concept of time? Stop it. His head's gone, it's like it's been erased. Yeah, exactly. Marty, one rejection isn't the end of the world.
+
+Where does he come from? Yeah, well, I still don't understand what Dad was doing in the middle of the street. Thank you, don't forget to take a flyer. Hey, not too early I sleep in on Saturday. Oh, McFly, your shoe's untied. Don't be so gullible, McFly. You got the place fixed up nice, McFly. I have you're car towed all the way to your house and all you've got for me is light beer. What are you looking at, butthead. Say hi to your mom for me. Okay, that's enough. Now stop the microphone. I'm sorry fellas. I'm afraid you're just too darn loud. Next, please. Where's the next group, please.
+
+Um, well it's a delorean, right? No, Biff, you leave her alone. Yeah, well, I still don't understand what Dad was doing in the middle of the street. Don't worry, I'll take care of the lightning, you take care of your pop. By the way, what happened today, did he ask her out? Pa, what is it? What is it, Pa?
+
+Alright, McFly, you're asking for it, and now you're gonna get it. George. George. Give me a hand, Lorenzo. Ow, dammit, man, I sliced my hand. Right. What did you sleep in your clothes again last night.
+
+Stop it. Well, uh, listen, uh, I really- Alright, good-bye Einy. Oh, watch that re-entry, it's a little bumpy. Let's put him in there. Because, you might regret it later in life.
+
+Marty, why are you so nervous? He's your brother, Mom. Yeah, yeah what are you wearing, Dave. Oh, you mean how you're supposed to act on a first date. Save the clock tower, save the clock tower. Mayor Wilson is sponsoring an initiative to replace that clock. Thirty years ago, lightning struck that clock tower and the clock hasn't run since. We at the Hill Valley Preservation Society think it should be preserved exactly the way it is as part of our history and heritage.
+
+Alright, okay Jennifer. What if I send in the tape and they don't like it. I mean, what if they say I'm no good. What if they say, 'Get out of here, kid, you got no future.' I mean, I just don't think I can take that kind of rejection. Jesus, I'm beginning to sound like my old man. Did you hurt your head? The appropriate question is, weren't the hell are they. Einstein has just become the world's first time traveler. I sent him into the future. One minute into the future to be exact. And at exactly 1:21 a.m. we should cat h up with him and the time machine. Oh. Yeah, alright, bye-bye. What?
+
+Jennifer. Oh, you make it sound so easy. I just, I wish I wasn't so scared. We all make mistakes in life, children Anyway, Grandpa hit him with the car and brought him into the house. He seemed so helpless, like a little lost puppy, my heart just went out for him. Doc.

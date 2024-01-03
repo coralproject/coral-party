@@ -1,0 +1,10 @@
+---
+title: "Node 18 (8.7.0) Q&A"
+date: "2024-01-03T10:26:00-07:00"
+mode: "QA"
+author: Nick Funk
+---
+
+They were both poisoned. I spent the last few years building up an immunity to iocane powder. Unless the enemy has studied his Agrippa... which I have. Move? You're alive. If you want I can fly. You just shook your head... doesn't that make you happy? Truly, you have a dizzying intellect. Probably he means no *harm*.
+
+You're the Dread Pirate Roberts, admit it. How many do you think you could handle? You mean you wish to surrender to me? Very well, I accept. But how can you be sure? Will this do? You truly love each other and so you might have been truly happy. Not one couple in a century has that chance, no matter what the story books say. And so I think no man in a century will suffer as greatly as you will. As you know, the concept of the suction pump is centuries old. Really that's all this is except that instead of sucking water, I'm sucking life. I've just sucked one year of your life away. I might one day go as high as five, but I really don't know what that would do to you. So, let's just start with what we have. What did this do to you? Tell me. And remember, this is for posterity so be honest. How do you feel? You only think I guessed wrong! That's what's so funny! I switched glasses when your back was turned! Ha ha! You fool! You fell victim to one of the classic blunders - The most famous of which is "never get involved in a land war in Asia" - but only slightly less well-known is this: "Never go against a Sicilian when death is on the line"! Ha ha ha ha ha ha ha! Ha ha ha ha ha ha ha! Ha ha ha...
