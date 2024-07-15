@@ -20,12 +20,12 @@ const CoralComments: FunctionComponent<Props> = ({ storyMode, token }) => {
     const script = document.createElement("script");
     script.type = "text/javascript";
     script.async = true;
-    script.src = `//${CORAL_DOMAIN}/assets/js/embed.js`;
+    script.src = `${CORAL_DOMAIN}/assets/js/embed.js`;
     script.onload = () => {
       const params: any = {
         id: "coral",
         autoRender: true,
-        rootURL: `//${CORAL_DOMAIN}`,
+        rootURL: `${CORAL_DOMAIN}`,
         storyMode,
         accessToken: token
       };
