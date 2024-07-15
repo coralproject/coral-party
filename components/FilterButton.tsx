@@ -5,6 +5,7 @@ interface Props {
   value: string;
   onClick: (value: string) => void;
   selected: boolean;
+  children?: React.ReactNode;
 }
 
 const FilterButton: FunctionComponent<Props> = ({
