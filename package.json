@@ -14,7 +14,7 @@
     "gray-matter": "^4.0.2",
     "jsonwebtoken": "^9.0.0",
     "lodash": "^4.17.20",
-    "next": "^12.3.4",
+    "next": "^14.2.5",
     "postcss": "^8.4.39",
     "preact": "^10.5.12",
     "react": "^18.3.1",
