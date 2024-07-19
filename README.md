@@ -8,7 +8,8 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 First, run the development server:
 
 ```bash
-npm run dev
+npm run build
+npm run start
 ```
 
 If you want to specify the specific Coral instance to target, you can add a `.env` file with the following:
@@ -20,6 +21,19 @@ NEXT_PUBLIC_BASE_URL=http://localhost:4000
 ```
 
 Open [http://localhost:4000](http://localhost:4000) with your browser to see the result.
+
+## Making code changes
+
+If you modify articles, content, or the code, be sure to re-perform the following steps.
+
+```
+npm run build
+npm run start
+```
+
+This is because our build target is a static asset deploy on Netlify. This differs from the usual interactive, live server that you commonly see with Next.js.
+
+To avoid inconsistencies between Netlify and our local dev environment, we have also set up our local build scripts to export out static site content and then host those static files with `http-server` to emulate Netlify's hosting as closely as possible.
 
 ## Adding Content
 
