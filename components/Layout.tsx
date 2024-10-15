@@ -8,6 +8,7 @@ interface Props {
   editURL?: string;
   author?: string;
   publishedAt?: string;
+  section?: string;
   children?: React.ReactNode;
 }
 
@@ -19,6 +20,7 @@ const Layout: FunctionComponent<Props> = ({
   publishedAt,
   pagePath,
   editURL,
+  section,
   children,
 }) => {
   const canonical = useMemo(() => {
@@ -32,6 +34,7 @@ const Layout: FunctionComponent<Props> = ({
         <title>{title}</title>
         <link rel="canonical" href={canonical} />
         {author && <meta name="author" content={author} />}
+        {section && <meta name="article:section" content={section} />}
         {publishedAt && <meta name="datepublished" content={publishedAt} />}
       </Head>
       <div className="max-w-3xl mx-auto my-20 space-y-4">

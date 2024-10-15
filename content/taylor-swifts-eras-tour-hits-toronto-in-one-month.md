@@ -3,6 +3,7 @@ title: "Taylor Swift’s Eras Tour hits Toronto in one month. Here’s what that
 date: "2024-10-15T08:58:37-07:00"
 mode: "COMMENTS"
 author: Coral Project Team
+section: Vulture
 ---
 
 <meta property="article:section" content="Vulture">

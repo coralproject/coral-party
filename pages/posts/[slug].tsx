@@ -66,6 +66,7 @@ export default function PostPage({ post, users }: Props) {
       title={`${post.title} - Coral Party`}
       publishedAt={post.date}
       author={post.author}
+      section={post.section}
       pagePath={`/posts/${post.slug}/`}
       editURL={`https://github.com/coralproject/coral-party/edit/main/content/${post.slug}.md`}
     >
