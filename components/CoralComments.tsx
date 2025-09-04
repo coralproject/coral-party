@@ -27,7 +27,12 @@ const CoralComments: FunctionComponent<Props> = ({ storyMode, token }) => {
         autoRender: true,
         rootURL: `${CORAL_DOMAIN}`,
         storyMode,
-        accessToken: token
+        accessToken: token,
+        events: function(events: { onAny: (arg0: (eventName: any, data: any) => void) => void; }) {
+          events.onAny(function(eventName, data) {
+            console.log(eventName, data);
+          });
+        },
       };
 
       stream = (window as any).Coral.createStreamEmbed(params);
